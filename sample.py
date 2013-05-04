@@ -67,5 +67,3 @@ s.reducefn = reducefn
 
 results = s.run_server(password="changeme")
 print results['Alberto Pettorossi']
-#print results['Munindar P. Singh']
-#print results
